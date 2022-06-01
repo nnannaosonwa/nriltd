@@ -211,7 +211,7 @@ form a {
 @media screen and (max-width: 768px) {
     .nav-links li {
         padding: 0px 5px;
-        font-size: 15px;
+        font-size: 10px;
     }
     header {
         display: block;
