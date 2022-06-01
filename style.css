@@ -49,6 +49,10 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 10px 8%;
+    position: sticky;
+    width: 100%;
+    z-index: 100;
+    top: 0;
 }
 
 #logo {
@@ -102,7 +106,7 @@ header {
     height: 350px;
     width: 400px;
     padding: 40px;
-    z-index: 100;
+    z-index: 80;
 }
 
 .showcase-form .form-control {
