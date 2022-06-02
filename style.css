@@ -196,7 +196,7 @@ form a {
 
     .showcase-form {
         justify-self: center;
-        margin: auto;
+        /* margin: auto; */
     }
 
 }
@@ -218,3 +218,5 @@ form a {
         text-align: center;
     }
 }
+
+
